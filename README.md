@@ -1,25 +1,24 @@
 <h1 align="center">My portfolio 💼</h1>
 <h3 align="left"><a href="https://github.com/laclave96/both">- Both (Social Network)</a></h3>
+
 <img align="center" src="https://github.com/laclave96/both/blob/main/full_wall.jpg">
 <img align="center" src="https://github.com/laclave96/both/blob/main/Web%201920%20%E2%80%93%201.jpg">
 
 <h3 align="left">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-204051_Both.jpg">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-204108_Both.jpg">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203712_Both.jpg">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203859_Both.jpg">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203059_Both.jpg">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203117_Both.jpg">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203927_Both.jpg">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203911_Both.jpg">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203942_Both.jpg">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203146_Both.jpg">
-<img align="left" width="150" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203107_Both.jpg">
+  <img align="left" width="200" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-204051_Both.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-204108_Both.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203712_Both.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203859_Both.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203059_Both.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203117_Both.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203927_Both.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203911_Both.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203942_Both.jpg">
+  <img align="center" width="200" src="https://github.com/laclave96/both/blob/main/1675061501-Screenshot_20221010-203146_Both.jpg">
 </h3>
 
-<h3 align="center"></h3>
 
-<h3 align="left"><a href="https://github.com/laclave96/restaurant">- Restaurant App</a></h3>
+<h3 align="left"><a href="https://github.com/laclave96/restaurant">- Restaurant App </a></h3>
 <h3 align="left">
   <img align="left" width="200" src="https://github.com/laclave96/restaurant/blob/main/screenshots/1.jpg">
   <img align="center" width="200" src="https://github.com/laclave96/restaurant/blob/main/screenshots/2.jpg">
@@ -29,7 +28,6 @@
   <img align="center" width="200" src="https://github.com/laclave96/restaurant/blob/main/screenshots/6.jpg">
   <img align="center" width="200" src="https://github.com/laclave96/restaurant/blob/main/screenshots/7.jpg">
   <img align="center" width="200" src="https://github.com/laclave96/restaurant/blob/main/screenshots/8.jpg">
-
 </h3>
 
 <h3 align="left"><a href="https://github.com/laclave96/face-scan">- Face Scan</a></h3>
