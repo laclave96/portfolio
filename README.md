@@ -64,7 +64,6 @@
   <img align="center" width="200" src="https://github.com/laclave96/services/blob/main/screenshots/Screenshot_20240221-135859_Savent Services.jpg">
   <img align="center" width="200" src="https://github.com/laclave96/services/blob/main/screenshots/Screenshot_20240221-140241_Savent Services.jpg">
   <img align="center" width="200" src="https://github.com/laclave96/services/blob/main/screenshots/Screenshot_20240221-140333_Savent Services.jpg">
-  <img align="center" width="200" src="https://github.com/laclave96/services/blob/main/screenshots/Screenshot_20240221-140348_Savent Services.jpg">
   <img align="center" width="200" src="https://github.com/laclave96/services/blob/main/screenshots/Screenshot_20240221-140503_Savent Services.jpg">
   <img align="center" width="200" src="https://github.com/laclave96/services/blob/main/screenshots/Screenshot_20240221-140508_Savent Services.jpg">
   <img align="center" width="200" src="https://github.com/laclave96/services/blob/main/screenshots/Screenshot_20240221-141035_Savent Services.jpg">
