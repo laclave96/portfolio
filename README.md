@@ -6,12 +6,12 @@
 
 <h3 align="left">
   <img align="left" width="200" src="https://github.com/laclave96/crircle-to-search/blob/main/Frame1.png">
-  <img align="center" width="200" src="https://github.com/laclave96/crircle-to-search/blob/main/Frame10.png">
+  <img align="center" width="200" src="https://github.com/laclave96/crircle-to-search/blob/main/Frame%2010.png">
   <img align="center" width="200" src="https://github.com/laclave96/crircle-to-search/blob/main/Frame2.png">
-  <img align="center" width="200" src="https://github.com/laclave96/crircle-to-search/blob/main/Frame11.png">
+  <img align="center" width="200" src="https://github.com/laclave96/crircle-to-search/blob/main/Frame%2011.png">
   <img align="center" width="200" src="https://github.com/laclave96/crircle-to-search/blob/main/Frame3.png">
   <img align="center" width="200" src="https://github.com/laclave96/crircle-to-search/blob/main/Frame4.png">
-  <img align="center" width="200" src="https://github.com/laclave96/crircle-to-search/blob/main/Frame12.png">
+  <img align="center" width="200" src="https://github.com/laclave96/crircle-to-search/blob/main/Frame%2012.png">
 </h3>
 
 <h3 align="left"><a href="https://github.com/laclave96/both">- Both (Social Network)</a></h3>
