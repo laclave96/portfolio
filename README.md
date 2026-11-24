@@ -10,7 +10,7 @@
   <img align="center" width="200" src="https://github.com/laclave96/circle-to-search/blob/main/Frame%2011.png">
   <img align="center" width="200" src="https://github.com/laclave96/circle-to-search/blob/main/Frame%207.png">
   <img align="center" width="200" src="https://github.com/laclave96/circle-to-search/blob/main/Frame%204.png">
-  <img align="center" width="500" src="https://github.com/laclave96/circle-to-search/blob/main/Frame%2044.png">
+  <img align="center" width="700" src="https://github.com/laclave96/circle-to-search/blob/main/Frame%2044.png">
 </h3>
 
 <h3 align="left"><a href="https://play.google.com/store/apps/details?id=com.timeval.android">- TIMEVAL</a></h3>
